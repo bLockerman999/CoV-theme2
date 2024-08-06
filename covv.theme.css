@@ -1,17 +1,14 @@
 /**
- * @name CoV v2
- * @author Gibbu#1211
+ * @name CoV Theme v2
+ * @author bLockerman999
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness.
  * @source https://github.com/DiscordStyles/FrostedGlass
- * @invite ZHthyCw
- * @donate https://paypal.me/IanRGibson
- * @website https://gibbu.dev
- * @authorId 174868361040232448
- * @BDEditor Frosted Glass
+ * @bLockerman999's-server https://discord.gg/gYVj5Qdz
+ * @authorId 1155160520995905637
 */
 
-@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://bLockerman999.github.io/CoV-theme2/covv.theme.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
